@@ -1,0 +1,4 @@
+openai==1.6.0
+azure-core==1.29.6
+azure-storage-blob==12.19.0
+python-dotenv==1.0.0
